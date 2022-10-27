@@ -4145,6 +4145,7 @@
   "onboardingTask.checklist.main_subtitle": "Laten we aan de slag gaan.",
   "onboardingTask.checklist.plan_sprint_with_kanban_style_boards": "🎯 Plan een sprint met Kanban-achtige borden",
   "onboardingTask.checklist.start_enterprise_now": "Start nu je gratis Enterprise-proefperiode!",
+<<<<<<< HEAD
   "onboardingTask.checklist.task_complete_your_profile": "📷 Vervolledig jouw profiel",
   "onboardingTask.checklist.task_download_mm_apps": "📱Download de desktop-en mobiele apps",
   "onboardingTask.checklist.task_invite_team_members": "👋 Nodig teamleden uit tot de werkruimte",
@@ -4152,6 +4153,8 @@
   "onboardingTask.checklist.task_resolve_incidents_faster_with_playbooks": "🐛 Incidenten sneller oplossen met playbooks",
   "onboardingTask.checklist.task_start_enterprise_trial": "🏢 Meer informatie over geavanceerde beveiligingsfuncties op bedrijfsniveau",
   "onboardingTask.checklist.task_visit_system_console": "🥰️ Ga naar de Systeem console om jouw werkruimte te configureren",
+=======
+>>>>>>> a65887201 (Update translation files)
   "onboardingTask.checklist.video_title": "Bekijk overzicht",
   "onboardingTask.completeYourProfileTour.Description": "Gebruik dit menu om jouw profielgegevens en beveiligingsinstellingen bij te werken.",
   "onboardingTask.completeYourProfileTour.title": "Jouw profiel bewerken",
