@@ -4147,7 +4147,6 @@
   "onboardingTask.checklist.main_subtitle": "Legen wir los.",
   "onboardingTask.checklist.plan_sprint_with_kanban_style_boards": "🎯 Plane einen Sprint mit Boards im Kanban-Stil",
   "onboardingTask.checklist.start_enterprise_now": "Starte jetzt Deinen kostenfreien Enterprise-Test!",
-<<<<<<< HEAD
   "onboardingTask.checklist.task_complete_your_profile": "📷 Vervollständige Dein Profil",
   "onboardingTask.checklist.task_download_mm_apps": "📱 Lade die Desktop-, Tablet- und Handy-Apps runter",
   "onboardingTask.checklist.task_invite_team_members": "👋 Lade Teammitglieder in den Arbeitsbereich ein",
@@ -4155,8 +4154,6 @@
   "onboardingTask.checklist.task_resolve_incidents_faster_with_playbooks": "🐛 Löse Vorfälle schneller mit Playbooks",
   "onboardingTask.checklist.task_start_enterprise_trial": "🏢 Erfahre mehr über die Hochsicherheitsfunktionen für Unternehmen",
   "onboardingTask.checklist.task_visit_system_console": "🥰️ Besuche die Systemkonsole, um deinen Arbeitsbereich zu konfigurieren",
-=======
->>>>>>> a65887201 (Update translation files)
   "onboardingTask.checklist.video_title": "Übersicht ansehen",
   "onboardingTask.completeYourProfileTour.Description": "Benutze diesen Menüeintrag um Deine Profildetails und Sicherheitseinstellungen zu aktualisieren.",
   "onboardingTask.completeYourProfileTour.title": "Bearbeite Dein Profil",
