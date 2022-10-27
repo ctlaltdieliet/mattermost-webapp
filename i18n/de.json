@@ -3939,10 +3939,7 @@
   "mark_all_threads_as_read_modal.cancel": "Abbrechen",
   "mark_all_threads_as_read_modal.confirm": "Alles als gelesen markieren",
   "mark_all_threads_as_read_modal.description": "Dadurch wird der Status \"ungelesen\" gelöscht und die Zähler für alle deine Unterhaltungen werden entfernt. Bist du sicher?",
-<<<<<<< HEAD
   "mark_all_threads_as_read_modal.title": "Alle deine Unterhaltungen als gelesen markieren?",
-=======
->>>>>>> dd1ecb1c9 (Translated using Weblate (German))
   "marketplace_command.disabled": "Der Marktplatz ist deaktiviert. Bitte kontaktiere deinen Systemadmin für Details.",
   "marketplace_command.no_permission": "Du hast nicht die erforderlichen Berechtigungen um auf den Marktplatz zuzugreifen.",
   "marketplace_list.count_total_page": "{startCount, number} - {endCount, number} {total, plural, one {Plugin} other {Plugins}} von insgesamt {total, number}",
@@ -5394,7 +5391,6 @@
   "webapp.mattermost.feature.unlimited_file_storage": "Unbeschränkter Dateispeicher",
   "webapp.mattermost.feature.unlimited_integrations": "Unbeschränkte Integrationen",
   "webapp.mattermost.feature.unlimited_messages": "Unbeschränkte Nachrichten",
-<<<<<<< HEAD
   "webapp.mattermost.feature.upgrade_downgraded_workspace": "Den Arbeitsbereich auf einen kostenpflichtigen Plan zurücksetzen",
   "welcome_post_renderer.admin_message.first_paragraph": "Mattermost ist eine Open-Source-Plattform für sichere Kommunikation, Zusammenarbeit und Orchestrierung der Arbeit über Tools und Teams hinweg.",
   "welcome_post_renderer.admin_message.second_paragraph": "Hier findest Du eine Liste von Befehlen, die Du verwenden kannst, um sich mit der Plattform vertraut zu machen.",
@@ -5405,10 +5401,6 @@
   "welcome_post_renderer.user_message.first_paragraph": "Mattermost ist eine Open-Source-Plattform für sichere Kommunikation, Zusammenarbeit und Orchestrierung der Arbeit über Tools und Teams hinweg.",
   "welcome_post_renderer.user_message.second_paragraph": "Hier findest Du eine Liste von Befehlen, die Du verwenden kannst, um sich mit der Plattform vertraut zu machen.",
   "welcome_post_renderer.user_message.title": "Willkommen bei Mattermost! :rocket:",
-=======
-  "welcome_post_renderer.admin_message.first_paragraph": "Mattermost ist eine Open-Source-Plattform für sichere Kommunikation, Zusammenarbeit und Orchestrierung der Arbeit über Tools und Teams hinweg.",
-  "welcome_post_renderer.user_message.first_paragraph": "Mattermost ist eine Open-Source-Plattform für sichere Kommunikation, Zusammenarbeit und Orchestrierung der Arbeit über Tools und Teams hinweg.",
->>>>>>> dd1ecb1c9 (Translated using Weblate (German))
   "widget.input.required": "Dieses Feld wird benötigt",
   "widget.passwordInput.createPassword": "Wähle ein Passwort",
   "widget.passwordInput.password": "Passwort",
