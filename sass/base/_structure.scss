@@ -141,6 +141,7 @@ body.app__body #root {
         grid-area: app-sidebar;
     }
 
+<<<<<<< HEAD
     &:not(.console__root) {
         @media screen and (max-width: 768px) {
             grid-template:
@@ -162,6 +163,31 @@ body.app__body #root {
                 position: relative;
                 left: 65px;
             }
+=======
+    @media screen and (max-width: 768px) {
+        grid-template:
+            'announcement' min-content
+            'header' min-content
+            'center'
+            'footer' min-content
+            / auto
+        ;
+        .team-sidebar,
+        #SidebarContainer,
+        #channel_view,
+        .product-wrapper,
+        #sidebar-right,
+        .app-bar {
+            grid-area: center;
+        }
+        #SidebarContainer.move--right {
+            position: relative;
+            left: 65px;
+>>>>>>> 284e8644fea0c631128ed1d3735f1c3f129ded2e
+        }
+
+        .announcement-bar {
+            grid-area: header;
         }
     }
 
